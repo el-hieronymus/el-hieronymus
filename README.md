@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andy
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
 Architecting Scalable Systems, One Line at a Time
 -------------------------------------------------
-
-Hi there 👋 
 
 I’m Andy, an experienced software and systems architect with over 20 years of expertise in IT consulting, software development, and data management. My career has revolved around creating innovative, scalable, and secure solutions, particularly in data-centric domains like backup and disaster recovery, big data, and machine learning. Currently, I’m leading a software development team at Tradatomy, where we’re building cutting-edge trading software that leverages AI and data analytics to empower traders. I’m passionate about open-source technology and have been an avid supporter since its early days. When I’m not coding, you’ll find me exploring new technologies, climbing, or enjoying time with my family. Feel free to check out my repositories or get in touch—I’m always open to collaborating on exciting projects!
 
